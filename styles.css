@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    margin-left:18px;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+#title{
+    text-align: center;
+    background-color: #011638;
+    color: #EEF0F2;
+    height: 80px;
+    padding: 24px;
+    margin-bottom: 20px;
+    
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+
+
+
+
+textarea {
+    resize: vertical;
+}
+
+#submitBtn {
+    background-color: #011638;
+    color: #EEF0F2;;
+}
+
+#submitBtn:hover {
+    background-color: #04a777;
+    
+}
